@@ -19,8 +19,8 @@ hair-textures/
 │   │   │   ├── file_1.blend
 │   │   │   ├── file_1.obj
 │   │   │   ├── file_1.mtl
-│   │   │   └── textures/           # Textures used in Blender models. Usualy dev textures. Do not confuse with exported textures
-│   │   │       ├── texture_1.png
+│   │   │   └── textures/           # Textures used in Blender models. Usualy dev textures.
+│   │   │       ├── texture_1.png     Do not confuse with exported textures
 │   │   │       └── texture_2.png
 │   │   ├── exports/                # Exported textures (finished product)
 │   │   │   ├── texture_1.png
