@@ -9,7 +9,7 @@ I love it when a community comes together to make things "better," and as such, 
 
 ## It's developed with GIT and GITHUB
 
-I know it's weird to have a texture respository on github of all platforms, but I needed something robux. As such, we use this platform to keep track of;
+I know it's weird to have a texture respository on github of all platforms, but I needed something robust. As such, we use this platform to keep track of;
 - Issues
 - Requests
 - Pull requests
@@ -46,7 +46,7 @@ We use GitHub issues to track any issues with textures. Report an issue by [open
 - What actually happens
 - Notes (possibly including why you think this might be happening)
 
-People *love* thorough bug reports.
+I *love* thorough reports.
 
 ## License
 
