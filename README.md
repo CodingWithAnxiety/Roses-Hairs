@@ -1,7 +1,9 @@
 # Lovebecile-Hairs
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This project serves as a langing base for all of my hair textures!
+<p align="center">
+  <img alt="Textures License" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" />
+</p>
+This project serves as a landing base for all of my hair textures!
 
 The structure is as seen here;
 
@@ -53,12 +55,12 @@ Anything here with a .placeholder file currently does NOT have it's current cont
 
 ## Requests
 You can request hairs in the [issues tab](https://github.com/CodingWithAnxiety/Lovebecile-Hairs/issues), and if made, will become publicaly available here. If you need something private, **Comissions are completely private, and can be designed for specific hair models!** Please message me on discord (`lovebecile`) if you are interested in a commission, or make a request in the issues tab with the COMISSIONS tag.
-> [!NOTE]  
+> [!IMPORTANT]  
 > Any comissions made in the issues tab are public.
+>
 > If you message me on discord, please make it clear that you are interested in a commission.
 
 ## Contributing
-
 Please view the [contributing](./CONTRIBUTING.md) file.
 
 > [!NOTE]  
