@@ -1,7 +1,9 @@
 # Lovebecile-Hairs
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This project serves as a langing base for all of my hair textures!
+<p align="center">
+  <img alt="Textures License" src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg" />
+</p>
+This project serves as a landing base for all of my hair textures!
 
 The structure is as seen here;
 
