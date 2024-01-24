@@ -52,6 +52,13 @@ While you can request hairs in the [issues tab](https://github.com/CodingWithAnx
 > [!NOTE]  
 > Any comissions made in the issues tab are public.
 
+## Contributing
+
+Please view the [contributing](./CONTRIBUTING.md) file.
+
+> [!NOTE]  
+> Any contributions made to this project are public.
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
