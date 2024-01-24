@@ -45,6 +45,8 @@ hair-textures/
         └── ...
 ```
 
+Anything here with a .placeholder file currently does NOT have it's current contents mirrored to it; this is temporary (becaue I'm lazy)
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
