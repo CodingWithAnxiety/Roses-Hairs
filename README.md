@@ -5,7 +5,7 @@ A collection of all the tools, plugins, and files used to make Lovebecile's hair
 
 
 ## License
-This work by Lovebecile is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. 
+This work by Lovebecile is licensed under a [Creative Commons Attribution 4.0 International License][LICENSE]. 
 
 You are free to modify, redistribute, or reuse any of the materials here; For whatever purpose, including commercial purposes; So long as the changes to specific materials are announced and credit is given where due.
 
