@@ -23,8 +23,12 @@ hair-textures/
 │   │   │       ├── texture_1.png     Do not confuse with exported textures
 │   │   │       └── texture_2.png
 │   │   ├── exports/                # Exported textures (finished product)
-│   │   │   ├── texture_1.png
-│   │   │   └── texture_2.png
+│   │   │   ├── renders/ 
+│   │   │   │   ├── rendered_1.png
+│   │   │   │   └── rendered_2.png
+│   │   │   └── textures/
+│   │   │       ├── texture_1.png
+│   │   │       └── texture_2.png
 │   │   └─ README.md                # Indivual REAME file for series
 │   └── series_2/                   # Repeat structure for additional series
 │       └── ...
