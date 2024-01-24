@@ -49,12 +49,12 @@ Anything here with a .placeholder file currently does NOT have it's current cont
 
 ## Requests
 You can request hairs in the [issues tab](https://github.com/CodingWithAnxiety/Lovebecile-Hairs/issues), and if made, will become publicaly available here. If you need something private, **Comissions are completely private, and can be designed for specific hair models!** Please message me on discord (`lovebecile`) if you are interested in a commission, or make a request in the issues tab with the COMISSIONS tag.
-> [!NOTE]  
+> [!IMPORTANT]  
 > Any comissions made in the issues tab are public.
+>
 > If you message me on discord, please make it clear that you are interested in a commission.
 
 ## Contributing
-
 Please view the [contributing](./CONTRIBUTING.md) file.
 
 > [!NOTE]  
