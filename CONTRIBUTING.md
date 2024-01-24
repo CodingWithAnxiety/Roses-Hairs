@@ -9,7 +9,7 @@ I love it when a community comes together to make things "better," and as such, 
 
 ## It's developed with GIT and GITHUB
 
-I know it's weird to have a texture respository on github of all platforms, but I needed something robux. As such, we use this platform to keep track of;
+I know it's weird to have a texture respository on github of all platforms, but I needed something robust. As such, we use this platform to keep track of;
 - Issues
 - Requests
 - Pull requests
