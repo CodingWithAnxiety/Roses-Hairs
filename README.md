@@ -1,7 +1,49 @@
 # Lovebecile-Hairs
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A collection of all the tools, plugins, and files used to make Lovebecile's hair textures. Includes IDs.
+This project serves as a langing base for all of my hair textures!
+
+The structure is as seen here;
+
+```
+hair-textures/
+│
+├── README.md                       # Project description and instructions
+│
+├── series/                         # Directory for hair texture series
+│   ├── series_1/                   # Individual series folder
+│   │   ├── photoshop/              # Photoshop files for series_1
+│   │   │   ├── file_1.psd
+│   │   │   └── file_2.psd
+│   │   ├── blender/                # Blender and related files for series_1
+│   │   │   ├── file_1.blend
+│   │   │   ├── file_1.obj
+│   │   │   ├── file_1.mtl
+│   │   │   └── textures/           # Textures used in Blender models. Usualy dev textures. Do not confuse with exported textures
+│   │   │       ├── texture_1.png
+│   │   │       └── texture_2.png
+│   │   ├── exports/                # Exported textures (finished product)
+│   │   │   ├── texture_1.png
+│   │   │   └── texture_2.png
+│   │   └─ README.md                # Indivual REAME file for series
+│   └── series_2/                   # Repeat structure for additional series
+│       └── ...
+│
+└── standalone/                     # Directory for standalone hair textures
+    ├── standalone_1/               # Individual standalone texture folder
+    │   ├── photoshop/
+    │   │   └── file_1.psd
+    │   ├── blender/
+    │   │   ├── file_1.blend
+    │   │   ├── file_1.obj
+    │   │   ├── file_1.mtl
+    │   │   └── textures/
+    │   │       └── texture_1.png
+    │   └── exports/
+    │       └── texture_1.png
+    └── standalone_2/               # Repeat structure for additional standalone textures
+        └── ...
+```
 
 ## License
 This work is licensed under a
