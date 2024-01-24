@@ -16,7 +16,7 @@ If you use this project or any derivative works, I request that you adhere to th
 - **Name**: Please credit me as **Lovebecile** or **Codebecile**.
 - **Link to the project**: If possible, include a link to the original project. `https://github.com/CodingWithAnxiety/Lovebecile-Hairs`
 - **Indication of Changes**: If you modify the work, please indicate that changes were made. You may do this in any reasonable manner, but not in any way that suggests I endorse you or your use of the work.
-- **Not sure how? Use the following citation format**: Lovebecile. 2024. *Lovebecile's Hair Repo*. /Lovebecile-Hairs. Available at: https://github.com/CodingWithAnxiety/Lovebecile-Hairs
+- **Not sure how? Use the following citation format**: Lovebecile. 2024. *Lovebecile's Hair Repo*. `Lovebecile-Hairs`. Available at: https://github.com/CodingWithAnxiety/Lovebecile-Hairs
 
 These guidelines are in accordance with the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), under which this work is licensed.
 
