@@ -46,7 +46,7 @@ We use GitHub issues to track any issues with textures. Report an issue by [open
 - What actually happens
 - Notes (possibly including why you think this might be happening)
 
-People *love* thorough bug reports.
+I *love* thorough reports.
 
 ## License
 
