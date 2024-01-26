@@ -15,7 +15,11 @@ Rotations are avaiable, view the below format;
 A innocent white; light and untouched. Various gradients available.
 
 *Default* - `16039497693`; `16122991982`; `16122874608`; `16122876591`
+
 *Gradient, Crimson* - `16039265151`; `16122991519`; `16122994615`; `16122997675`
+
 *Gradient, Pink* - `16039134921`; `16122991227`; `16122994340`; `16122997411`
+
 *Gradient, Blue* - `16039169492`; `16122991735`; `16122995200`; `16122997977`
+
 *Gradient, Teal* - `16039220039`; `16122990914`; `16122994039`; `16122997154`
