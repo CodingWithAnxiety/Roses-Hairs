@@ -68,6 +68,10 @@ You can request hairs in the [issues tab](https://github.com/CodingWithAnxiety/L
 >
 > If you message me on discord, please make it clear that you are interested in a commission.
 
+## Blender renders
+
+All blender renders are done by me for use in hair demo sheets. **I do not do renders of male hairs.** Please view [RENDERS.md](./RENDERS.md) for reasons why.
+
 ## Contributing
 Please view the [contributing](./CONTRIBUTING.md) file.
 

@@ -54,7 +54,7 @@ By contributing, you agree that your contributions will be licensed under it's *
 
 ## Credits and Acknowledgements
 
-For any elements *not originally yours* or influenced by *another source*, kindly give proper credit and include links to the original work. This ensures transparency and respects the creative rights of others.
+For any elements *not originally yours* or influenced by *another source*, kindly give proper credit and include links to the original work. This ensures transparency and respects the creative rights of others. You can add this to the [CREDITS.md](./CREDITS.md) file, as well.
 
 ---
 
