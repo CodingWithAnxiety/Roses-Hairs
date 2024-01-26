@@ -55,7 +55,8 @@ Anything here with a .placeholder file currently does NOT have it's current cont
 
 ## Donations
 
-I provide these hair textures completely **free of charge**, however if you're interested in donating to my efforts, you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6TS4LK)
+I provide these hair textures completely **free of charge**, however if you're interested in donating to my efforts, you can
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6TS4LK)
 95% of donations go right to me, and 5% go to ko-fi. You can also donate to me through comissions which offer **robux donations**. View the section below.
 
 ## Requests
