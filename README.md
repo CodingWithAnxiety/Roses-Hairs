@@ -53,6 +53,11 @@ hair-textures/
 
 Anything here with a .placeholder file currently does NOT have it's current contents mirrored to it; this is temporary (becaue I'm lazy)
 
+## Donations
+
+I provide these hair textures completely **free of charge**, however if you're interested in donating to my efforts, you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6TS4LK)
+95% of donations go right to me, and 5% go to ko-fi. You can also donate to me through comissions which offer **robux donations**. View the section below.
+
 ## Requests
 You can request hairs in the [issues tab](https://github.com/CodingWithAnxiety/Lovebecile-Hairs/issues), and if made, will become publicaly available here. If you need something private, **Comissions are completely private, and can be designed for specific hair models!** Please message me on discord (`lovebecile`) if you are interested in a commission, or make a request in the issues tab with the COMISSIONS tag.
 > [!IMPORTANT]  
