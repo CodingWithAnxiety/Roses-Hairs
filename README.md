@@ -78,6 +78,11 @@ Please view the [contributing](./CONTRIBUTING.md) file.
 > [!NOTE]  
 > Any contributions made to this project are public.
 
+## Used software
+
+View [SOFTWARE.md](./SOFTWARE.md) for the software I used to create this repository.
+
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].

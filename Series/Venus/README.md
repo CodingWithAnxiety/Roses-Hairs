@@ -1,4 +1,4 @@
-## Venus -  
+## Series - Venus
 
 There's multiple variants of each hair combo, posted beneath their names. These will usually include;
 

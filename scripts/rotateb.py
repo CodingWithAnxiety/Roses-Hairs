@@ -21,7 +21,7 @@ def count_png_files(directory):
 root_dir = get_root_directory()
 
 # Set a threshold for the maximum number of images to process at once
-max_images_threshold = 500  # You can adjust this value as needed
+max_images_threshold = 50  # You can adjust this value as needed
 
 # Count PNG files in the directory
 total_png_files = count_png_files(root_dir)
