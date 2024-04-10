@@ -87,7 +87,7 @@ View [SOFTWARE.md](./SOFTWARE.md) for the software I used to create this reposit
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-You are free to modify, redistribute, or reuse any of the materials here; For whatever purpose, including commercial purposes; So long as the changes to specific materials are announced and credit is given where due. For more details, please read the full license.
+You are free to modify, redistribute, or reuse any of the materials here; For whatever purpose, including commercial purposes; So long as the changes to specific materials are announced and credit is given where due. For more details, please read the full license. 
 
 ### Attribution Guidelines
 
@@ -97,7 +97,8 @@ If you use this project or any derivative works, I request that you adhere to th
 - **Link to the project**: If possible, include a link to the original project. `https://github.com/CodingWithAnxiety/Lovebecile-Hairs`
 - **Indication of Changes**: If you modify the work, please indicate that changes were made. You may do this in any reasonable manner, but not in any way that suggests I endorse you or your use of the work.
 - **Not sure how? Use the following citation format**: Lovebecile. 2024. *Lovebecile's Hair Repo*. `Lovebecile-Hairs`. Available at: https://github.com/CodingWithAnxiety/Lovebecile-Hairs
-
+- **This is not required for private works**: I will never ask for a person to private credit on private works. You retain all rights to your private works, such as your characters, photographs, etc. 
+ 
 These guidelines are in accordance with the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), **and are not a strict method to credit me!** Please choose whatever method works best for you.
 
 Please also respect the [ShareAlike terms](http://creativecommons.org/licenses/by-sa/4.0/) if you remix, transform, or build upon the material.
